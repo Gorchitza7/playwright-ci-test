@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7","paramertized methods @regression","chromium","Wed Oct 08 23:30:00 EEST 2025","failed","Wed Oct 08 23:30:00 EEST 2025","","tests/usePageObjects.spec.ts","",""
+"","7","navigate to form page @smoke","chromium","Wed Oct 08 23:29:58 EEST 2025","failed","Wed Oct 08 23:29:58 EEST 2025","","tests/usePageObjects.spec.ts","",""
+"","5981","navigate to form page","chromium","Wed Oct 08 23:34:01 EEST 2025","passed","Wed Oct 08 23:34:07 EEST 2025","","tests/usePageObjects.spec.ts","",""
+"","4467","paramertized methods","chromium","Wed Oct 08 23:34:10 EEST 2025","passed","Wed Oct 08 23:34:14 EEST 2025","","tests/usePageObjects.spec.ts","",""
